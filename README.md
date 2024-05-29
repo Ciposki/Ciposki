@@ -6,7 +6,7 @@
   - 👯 Working on a new game called "It Lies In The Dark"
   - ⚽ Future Goals: Develope cool games
 
-[![Ciposki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciposki&show_icons=true&theme=github_dark_dimmed)](https://github.com/Ciposki/github-readme-stats) 
+<img alt ="my stats" src="https://github-readme-stats.vercel.app/api?username=Ciposki&show_icons=true&theme=github_dark_dimmed"/>
 
+<img alt ="my langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciposki&layout=compact&theme=github_dark_dimmed&langs_count=10"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciposki&layout=compact&theme=github_dark_dimmed&langs_count=10)](https://github.com/Ciposki/github-readme-stats)
